@@ -50,7 +50,10 @@
 ```
 `Obs: caso você queira usar com oseu próprio celular baixe o aplicativo do Expo na PlayStore ou AppStore e leia o QRCode ao executar o Aplicativo`
 
-- Imagens do jogo   
-  <img alt="Imagem da Kurisu" src="./assets/splash.png" width="200"/>
-  <img alt="Imagem da Kurisu" src="./.github/game.png" width="200"/>
+- Imagens do jogo  
+ 
+  <p align="center">
+    <img alt="Imagem da Kurisu" src="./assets/splash.png" width="200"/>
+    <img alt="Imagem da Kurisu" src="./.github/game.png" width="200"/>
+  </p>
 
