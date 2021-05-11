@@ -1,4 +1,6 @@
-<center><img src="./assets/icon.png" /></center>
+<p align="center">
+  <img alt="Imagem do icone" src="./assets/icon.png" width="100"/>
+</p>
 
 # <center>Jogo da Velha
 
@@ -49,5 +51,6 @@
 `Obs: caso você queira usar com oseu próprio celular baixe o aplicativo do Expo na PlayStore ou AppStore e leia o QRCode ao executar o Aplicativo`
 
 - Imagens do jogo   
-  <img src="./assets/splash.png" style="width: 200px; display: inline-block; margin-right: 20px" />
-  <img src="./.github/game.png" style="width: 200px" />
+  <img alt="Imagem da Kurisu" src="./assets/splash.png" width="200"/>
+  <img alt="Imagem da Kurisu" src="./.github/game.png" width="200"/>
+
